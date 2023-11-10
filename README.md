@@ -1,17 +1,15 @@
-**IPL_Analysis_EXCEL**
-----------------------
+# IPL_Analysis_EXCEL
 ![IPL_DASHBOARD](https://github.com/pijush4031/-IPL-Data-Analysis/assets/85018988/142da204-deb6-4230-8ef3-c68b74241951)
 
-**Data Used**
--------------
+# Data Used
+
 **Data** - IPL data(2008 - 2022) with over 7894 rows and 16 columns.
 
 **Data Cleaning & Analysis** - MS-Excel.
 
 **Data Visualization** - MS-Excel.
 
-**Questions**
-------------
+# Analysis
 1. Matches Won by teams 2008 - 2022
 2. Toss decision based wins
 3. Top 10 venues with most macthes and wining ratio based on toss decision
